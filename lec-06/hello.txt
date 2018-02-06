@@ -1,0 +1,3 @@
+This is a text file
+We will read from it using getline()
+Bye bye
